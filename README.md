@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/deepanshu-tyagi-355855198/">
   <img align="left" alt="Deepanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
+<a href="https://t.me/brillianttyagi">
   <img align="left" alt="Deepanshu's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/ttyagi_boy84/">
@@ -26,7 +26,6 @@
 <br />
 
 
-❤️
 
 Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm a  sophomore 🙍🏽‍♂️. I love❤️ to code.
 
