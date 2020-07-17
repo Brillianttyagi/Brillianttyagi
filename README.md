@@ -4,7 +4,7 @@
 
 
 <a href="">
-  <img align="left" alt=" | Twitter" width="22px" src="" />
+  <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="">
   <img align="left" alt="Deepanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
