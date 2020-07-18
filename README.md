@@ -33,12 +33,12 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
   
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on []();
+- 👨🏽‍💻 I’m currently working on [E-shop]();
 - 🌱 I’m currently learning Django; 
-- 👯 I’m looking to collaborate on []() 🤝;
+- 👯 I’m looking to collaborate on [E-shop]() 🤝;
 - 🤔 I’m looking for help with statistics 😭;
 - 💬 Ask me about: Python and Web development;
-- ⚡️ Fun-Fact: 
+- ⚡️ Fun-Fact: I work on pc💻 10 hours daily
 - 📫 How to reach me: deeputyagi39@gmail.com;
 - 📝[Resume]()
 
