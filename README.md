@@ -27,7 +27,7 @@
 
 
 
-Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm a  sophomore 🙍🏽‍♂️. I love❤️ to code.
+Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm Junior 🙍🏽‍♂️. I love❤️ to code.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
