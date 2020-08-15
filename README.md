@@ -35,7 +35,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 
 - 👨🏽‍💻 I’m currently working on [Own-Website](http://www.programmerspot.ninja/);
 - 🌱 I’m currently learning Django; 
-- 👯 I’m looking to collaborate on [E-shop]() 🤝;
+- 👯 I’m looking to collaborate on [AI assistant]() 🤝;
 - 🤔 I’m looking for help with statistics 😭;
 - 💬 Ask me about: Python and Web development;
 - ⚡️ Fun-Fact: I work on pc💻 10 hours daily
