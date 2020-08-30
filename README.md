@@ -38,7 +38,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 - 👯 I’m looking to collaborate on [AI assistant]() 🤝;
 - 🤔 I’m looking for help with statistics 😭;
 - 💬 Ask me about: Python and Web development;
-- ⚡️ Fun-Fact: I work on pc💻 10 hours daily
+- ⚡️ Fun-Fact: Kuch nahi hai;
 - 📫 How to reach me: deeputyagi39@gmail.com;
 - 📝[Resume]()
 
