@@ -39,7 +39,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 - 🤔 I’m looking for help with statistics 😭;
 - 💬 Ask me about: Python and Web development;
 - ⚡️ Fun-Fact: Kuch nahi hai;
-- 📫 How to reach me: deeputyagi39@gmail.com;
+- 📫 How to reach me: deepanshubhai84@gmail.com;
 - 📝[Resume]()
 
 **Languages and Tools:**  
