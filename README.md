@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Deepanshu!](http://brillianttyagi.github.io/) 
+### Hey 👋🏽, I'm [Deepanshu!](https://deepu84.github.io/portfolio/index.html) 
 
 <br/>
 
@@ -34,7 +34,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 **Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Own-Website](http://www.programmerspot.ninja/);
-- 🌱 I’m currently learning Django; 
+- 🌱 I’m currently learning Everything; 
 - 👯 I’m looking to collaborate on [AI assistant]() 🤝;
 - 🤔 I’m looking for help with statistics ;
 - 💬 Ask me about: Python and Web development;
