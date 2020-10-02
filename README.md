@@ -1,4 +1,4 @@
-### Hey <img src"https://github.com/Brillianttyagi/Brillianttyagi/blob/master/hand.gif">, I'm [Deepanshu!](https://deepu84.github.io/portfolio/index.html) 
+### Hey <img alt="GIF" src="https://raw.githubusercontent.com/Brillianttyagi/Brillianttyagi/master/hand.gif" width=35 />, I'm [Deepanshu!](https://deepu84.github.io/portfolio/index.html) 
 
 <br/>
 
