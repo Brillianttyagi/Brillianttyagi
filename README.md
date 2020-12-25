@@ -41,7 +41,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 - 💬 Ask me about: Python and Web development;
 - ⚡️ Fun-Fact: lots of fun facts;
 - 📫 How to reach me: deepanshubhai84@gmail.com;
-- 📝coming soon
+- 📝coming soon -- 
 
 **Languages and Tools:**  
 
