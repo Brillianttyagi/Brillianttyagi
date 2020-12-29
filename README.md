@@ -59,5 +59,5 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=brillianttyagi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brillianttyagi )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brillianttyagi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 )
 
