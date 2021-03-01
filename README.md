@@ -38,7 +38,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 - 🌱 I’m currently learning; 
 - 👯 I’m looking to collaborate on [AI assistant](aipoc) ;
 - 🤔 I’m looking for help with Data structure ;
-- ♾ Ask me about: Anything;
+- ♾ Ask me about: Datascience and WD;
 - ⚡️ Fun-Fact: ;
 - 📫 How to reach me: deepanshubhai84@gmail.com;
 - 📝 coming soon -- 
