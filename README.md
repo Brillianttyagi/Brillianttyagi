@@ -41,7 +41,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India, currently, I'm 
 - ♾ Ask me about: Datascience and WD;
 - ⚡️ Fun-Fact: eat code sleep repeat;
 - 📫 How to reach me: deepanshubhai84@gmail.com;
-- 📝 Resume: (Click here)[https://drive.google.com/file/d/1BUQDlfjI15MYQKErLx157MRJk30hbuQT/view?usp=sharing]
+- 📝 Resume: [Click here](https://drive.google.com/file/d/1BUQDlfjI15MYQKErLx157MRJk30hbuQT/view?usp=sharing)
 
 **Languages and Tools:**  
 
