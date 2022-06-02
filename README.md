@@ -34,7 +34,7 @@ Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India🙍🏽‍♂️
   
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [blog](http://brilliantprogrammer.tech/);
+- 👨🏽‍💻 I’m currently working on AI;
 - 🌱 I’m currently learning DP; 
 - 👯 I’m looking to collaborate on [blog](http://brilliantprogrammer.tech/) ;
 - 🤔 I’m looking for help with Data structure ;
