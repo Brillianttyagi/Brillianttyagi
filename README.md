@@ -28,7 +28,7 @@
 
 
 
-Hi👋, I'm Deepanshu Tyagi, a Python Developer 🚀 from India🙍🏽‍♂️. I love❤️ to code and solve problems.
+Hey there! 👋 I'm Deepanshu Tyagi, a Data Engineer 🚀 from India 🇮🇳. As a Data Engineer 📊, I love to design and build complex architectures for data processing and analysis. Let's connect on Github 🤝 and work together on exciting projects! 🤩
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
