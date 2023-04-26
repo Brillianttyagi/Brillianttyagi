@@ -35,7 +35,7 @@ Hey there! 👋 I'm Deepanshu Tyagi, a Data Engineer 🚀 from India 🇮🇳. A
 **Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on AI;
-- 🌱 I’m currently learning DE; 
+- 🌱 I’m currently learning ML; 
 - 👯 I’m looking to collaborate on Learning;
 - 🤔 I’m looking for help with Motivation;
 - ♾ Ask me about: Anything;
