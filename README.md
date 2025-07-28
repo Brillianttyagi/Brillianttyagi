@@ -177,7 +177,7 @@ Hey there! 👋 I'm Deepanshu Tyagi, a Data Engineer 🚀 from India 🇮🇳. A
 **💡 Pro Tip:** Update the repo names above to showcase your best projects!
 
 ### 🔗 Quick Links to My Work
-- 🌐 **Portfolio Website:** [deepu84.github.io](https://deepu84.github.io/portfolio/index.html)
+- 🌐 **Portfolio Website:** [https://deepanshutyagi.com/](https://deepanshutyagi.com/)
 - 💼 **Resume:** [View PDF](https://drive.google.com/file/d/1BUQDlfjI15MYQKErLx157MRJk30hbuQT/view?usp=sharing)
 - 📧 **Email:** deepanshubhai84@gmail.com
 
